@@ -6,7 +6,7 @@ logo = "images/volunteer-technologist-header-light.png"
 logo_dark = "images/volunteer-technologist-header-dark.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "240px"
+logo_width = "171px"
 # logo text will only show when logo is missing.
 logo_text = "Volunteer Technologist"
 # navbar fixed to top
