@@ -1,20 +1,20 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/volunteer-technologist-favicon.png"
 # logo
-logo = "images/logo.png"
-logo_dark = "images/logo-white.png"
+logo = "images/volunteer-technologist-header-light.png"
+logo_dark = "images/volunteer-technologist-header-dark.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "120px"
+logo_width = "240px"
 # logo text will only show when logo is missing.
 logo_text = "Volunteer Technologist"
 # navbar fixed to top
 navbar_fixed = true
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Statichunt"
-image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
+description = "Many who are technically inclined voluntarily put their skills to use outside of their primary job. Come explore the variety of ways people freely give of their technical skill and the technologies involved."
+author = "Gene Liverman"
+image = "images/volunteer-technologist-header-light.png"                # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
