@@ -7,6 +7,6 @@ banner:
   button:
     enable : true
     label : "Listen Now"
-    link : "/"
+    link : "/listening-lounge"
 
 ---
