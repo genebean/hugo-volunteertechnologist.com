@@ -4,9 +4,6 @@ description: "this is meta description"
 layout: "contact"
 draft: false
 ---
+## Contact Me
 
-# Contact Me
-
-Menso comes with a built-in contact form, that you can use with Formspree service to
-handle up to 50 submissions per month for free. You could also easily switch to another
-contact form service if you want
+The easiest way to reach me is via Mastodon. If you prefer email, you are welcome to utilize the form below and I will do my best to get back to you shortly.

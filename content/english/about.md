@@ -1,48 +1,18 @@
 ---
 title: "About"
-image: "images/about.jpg"
-description: "this is meta description"
+image: "https://storage.buzzsprout.com/variants/nft3jr170a2lo7sohle2b62ehzv4/f39677667998d4983b671c898b89f635827f90bc24d585ec289a8d3e04495b83.png"
+description: "An overview of the Volunteer Technologist podcast"
 layout: "about"
-button: "read more"
+# button: "read more"
 draft: false
 ---
 
-## Hi,I’m Linda McCoy Specilized In Blog Writing And Collecting
+## Hi, I’m Gene Liverman, host of the Volunteer Technologist podcast
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level
-overviews. Iterative approaches to corporate strategy foster collaborative thinking to
-further the overall value proposition. Organically grow the holistic world view of
-disruptive innovation via workplace diversity and empowerment. 
+Hello everyone, and welcome to the Volunteer Technologist podcast! Many who are technically inclined voluntarily put their skills to use outside of their primary job. My name is Gene and I am one such person. By day I take care of networking and servers for a software company, and used to do the same in educational environments. By night I handle all the technology needs for my local Scout district. I’ve also spent quite a bit of time as a volunteer sound technician and technology lead at church. All of this has allowed me to see that a lot happens behind the scenes of our daily lives and that it’s frequently volunteers doing the work. This podcast is a way for me to pull back the curtain a bit so that others can see it too.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of
-the day, going forward, a new normal that has evolved from generation X is on the
-runway heading towards a streamlined cloud solution. User generated content in real-time
-will have multiple touchpoints for offshoring.
+I hope you’ll join me on this journey through scouting, church, community groups, fire departments, families, international aide, prison, and more. The technologies used in these volunteer roles might surprise you. You’ll hear about newsletters, websites, networks, sound systems, custom electronics, and anything else that I, or those I interview, have taken responsibility for. Two common threads you’ll likely find between all of these scenarios are passionate people freely giving their time and a desire to do a lot for as little money as possible.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize
-scalable metrics whereas proactive e-services. Seamlessly empower fully researched
-growth strategies and interoperable internal or “organic” sources.
+Please take a moment to follow this podcast in your app of choice so that you don’t miss new episodes. if you haven't already, now would also be a great time to go to [newpodcastapps.com](https://newpodcastapps.com) to grab a Podcasting 2.0 app such as Fountain. Listening in one of these new apps will allow you to experience several features that aren’t present in the traditional ones.
 
-### Our Skill
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum.
-
-  * Poutine drinking vinegar bitters.
-  * Literally cred narwhal bitters wayfarers.
-  * justo duo dolores et ea rebum.
-
-{{< button "Read More" "#!" >}}
-
-
-
-### Youtube
-{{< youtube g3-VxLQO7do >}}
-
-Credibly reintermediate backend ideas for cross-platform models. Continually
-reintermediate integrated processes through technically sound intellectual capital.
-Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-
-business applications through revolutionary catalysts for change. Seamlessly underwhelm
-optimal testing procedures whereas bricks-and-clicks processes.
+You’re invited to check out volunteertechnologist.com for more information or to get in touch.
