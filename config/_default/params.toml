@@ -73,6 +73,7 @@ username = ""  # your username
 google = "" # Your verification code
 bing = ""   # Your verification code
 baidu = ""  # Your verification code
+mastodon = "https://podcastindex.social/@volunteertechnologist"
 
 
 # cookies
