@@ -1,0 +1,6 @@
+{{ $image := resources.Get "images/buymeacoffee.png" }}
+{{/* Resize to specified height and preserve aspect ratio */}}
+{{ $image := $image.Resize "x50" }}
+<a href="https://www.buymeacoffee.com/genebean" target="_blank"><img
+        src="{{ $image.RelPermalink }}" alt="Buy Me A Coffee"
+        style="height: {{ $image.Height }} !important;width: {{ $image.Width }} !important;"></a>
