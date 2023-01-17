@@ -10,3 +10,7 @@ package-lock.json
 public
 resources
 .hugo_build.lock
+
+# Backups created by Ghost
+*.md.backup
+
