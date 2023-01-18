@@ -15,8 +15,9 @@ navbar_fixed = true
 description = "Many who are technically inclined voluntarily put their skills to use outside of their primary job. Come explore the variety of ways people freely give of their technical skill and the technologies involved."
 author = "Gene Liverman"
 image = "images/volunteer-technologist-logo.png"  # this image will be used as fallback if a page has no image of its own
-# Utilize Netlify's contact form functionality
-netlify = true
+# contact form works with https://formspree.io and Netlify
+# use Netlify's contact form functionality
+netlify = true # set to false if using formspree.io
 # contact form action
 contact_form_action = "thank-you" # contact form works with https://formspree.io
 # search

@@ -1,4 +1,4 @@
 [submodule "themes/iWriter-hugo"]
 	path = themes/iWriter-hugo
-	url = https://github.com/genebean/iwriter-hugo.git
-	branch = patched
+	url = https://github.com/statichunt/iwriter-hugo.git
+	branch = main
