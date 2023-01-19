@@ -11,42 +11,42 @@ logo_width = "171px"
 logo_text = "Volunteer Technologist"
 # navbar fixed to top
 navbar_fixed = true
-# OpenGraph / Twitter Card metadata
-description = "Many who are technically inclined voluntarily put their skills to use outside of their primary job. Come explore the variety of ways people freely give of their technical skill and the technologies involved."
-author = "Gene Liverman"
-image = "images/volunteer-technologist-logo.png"  # this image will be used as fallback if a page has no image of its own
-# contact form works with https://formspree.io and Netlify
 # use Netlify's contact form functionality
 netlify = true # set to false if using formspree.io
-# contact form action
-contact_form_action = "thank-you" # contact form works with https://formspree.io
 # search
 search = true
 # Sidebar
 sidebar = "true" # sidebar value (true or false)
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script = ""
+
+mainSections = ["blog"]
+
+# contact form action
+contact_form_action = "thank-you" # contact form works with https://formspree.io
 # copyright
 theme_copyright = true
 copyright = "Copyright Gene Liverman"
-# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script = ""
+
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
-mainSections = ["blog"]
 
 # theme-mode
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 
+# seo meta data for OpenGraph / Twitter Card
+[metadata]
+keywords = ["Volunteering", "Technology", "Volunteer", "Technologist"]
+description = "Many who are technically inclined voluntarily put their skills to use outside of their primary job. Come explore the variety of ways people freely give of their technical skill and the technologies involved."
+author = "Gene Liverman"
+image = "images/volunteer-technologist-logo.png"  # this image will be used as fallback if a page has no image of its own
+
 # Preloader
 [preloader]
 enable = true
 preloader = "" # use jpg, png, svg or gif format.
-
-
-# Instagram feed
-[instafeed]
-enable = false
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
 # matomo tracking: see https://matomo.org/
 [matomo]
@@ -71,18 +71,10 @@ username = ""  # your username
 
 # site verifications
 [site_verification]
-google = "" # Your verification code
-bing = ""   # Your verification code
-baidu = ""  # Your verification code
+google = ""   # Your verification code
+bing = ""     # Your verification code
+baidu = ""    # Your verification code
 mastodon = "https://podcastindex.social/@volunteertechnologist"
-
-
-# cookies
-[cookies]
-enable = false
-expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
