@@ -3,6 +3,7 @@ title: "Contact"
 description: "this is meta description"
 layout: "contact"
 draft: false
+form_name: "contact"
 ---
 ## Contact Me
 
