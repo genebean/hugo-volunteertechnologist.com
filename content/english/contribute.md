@@ -36,7 +36,7 @@ If you'd like to learn more about boosts or any of the other cool features that 
 
 Again, thank you for even considering supporting this podcast. I sincerely apprecaite it.
 
-[b]: https://www.buzzsprout.com
+[b]: https://www.buzzsprout.com/?referrer_id=1803680
 [m]: https://www.buzzsprout.com/help/67-magic-mastering
 [g]: https://www.gandi.net
 [r]: https://riverside.fm
