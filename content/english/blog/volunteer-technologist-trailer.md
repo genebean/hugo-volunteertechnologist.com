@@ -2,7 +2,10 @@
 aliases:
 - /episode/1
 author: Gene Liverman
+categories:
+- Podcast Episode
 date: Fri, 30 Sep 2022 16:00:00 -0400
+description: Welcome to the Volunteer Technologist podcast!
 guid: Buzzsprout-11416227
 image: images/episode-header.png
 title: Volunteer Technologist Trailer

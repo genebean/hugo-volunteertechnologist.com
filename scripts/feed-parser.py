@@ -21,6 +21,8 @@ class ReadFeed:
         self.items = self.soup.findAll('item')
         self.episodes = []
         for e in self.items:
+            show_notes = CData(e.find('content:encoded').text)
+            description = BeautifulSoup(show_notes, features="html.parser").p.get_text()
             transcript_url = e.find(
                 'podcast:transcript', type='text/html')['url']
             try:
@@ -32,12 +34,14 @@ class ReadFeed:
             episode = {
                 'aliases': ['/episode/%s' % (e.find('itunes:episode').text)],
                 'author': e.find('itunes:author').text,
+                'categories': ['Podcast Episode'],
                 'date': e.find('pubDate').text,
+                'description': description,
                 'guid': e.find('guid').text,
                 'image': 'images/episode-header.png',
                 'mp3': e.find('enclosure', type='audio/mpeg')['url'],
                 'title': e.find('title').text,
-                'description': CData(e.find('content:encoded').text),
+                'show_notes': show_notes,
                 'transcript': transcript_html,
             }
             self.episodes.append(episode)
@@ -49,7 +53,7 @@ if __name__ == '__main__':
     feed = ReadFeed('https://feeds.buzzsprout.com/2053906.rss', headers)
     for episode in feed.episodes:
         transcript = episode.pop('transcript')
-        description = episode.pop('description').replace(
+        show_notes = episode.pop('show_notes').replace(
             '<br/><br/>', '<br/>').replace(
             '<br/></p>', '</p>')
         mp3 = episode.pop('mp3')
@@ -72,7 +76,7 @@ if __name__ == '__main__':
             blog_post.write('{{< tabs >}}' + os.linesep)
             blog_post.write('{{< tab "Show Notes" >}}' + os.linesep)
             blog_post.write('{{< rawhtml >}}' + os.linesep)
-            blog_post.write(description + os.linesep)
+            blog_post.write(show_notes + os.linesep)
             blog_post.write('{{< /rawhtml >}}' + os.linesep)
             blog_post.write('{{< /tab >}}' + os.linesep)
             blog_post.write('{{< tab "Transcript" >}}' + os.linesep)
