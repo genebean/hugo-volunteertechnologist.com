@@ -50,28 +50,34 @@ if __name__ == '__main__':
     for episode in feed.episodes:
         transcript = episode.pop('transcript')
         description = episode.pop('description').replace(
-            '<br/><br/></p>', '</p>').replace('<br/><br/>', '<br/>')
+            '<br/><br/>', '<br/>').replace(
+            '<br/></p>', '</p>')
         mp3 = episode.pop('mp3')
         mp3_parts = mp3.split('/')
         podcast_id_number = int(mp3_parts[-2])
         mp3_name_parts = mp3_parts[-1].split('-')
         episode_id_number = int(mp3_name_parts.pop(0))
         file_name = '-'.join(mp3_name_parts).split('.')[0]
-        output_file = 'content/english/blog/%s.html' % (file_name)
-        player_html = '<script src="https://www.buzzsprout.com/%d/%d-%s.js?container_id=buzzsprout-player-%d&player=small" type="text/javascript" charset="utf-8"></script>' % (
-            podcast_id_number, episode_id_number, file_name, episode_id_number)
+        output_file = 'content/english/blog/%s.md' % (file_name)
 
         with open(output_file, 'w') as blog_post:
-            # blog_post.write('testing' + os.linesep)
             blog_post.write('---' + os.linesep)
             blog_post.write(yaml.dump(episode) + os.linesep)
             blog_post.write('---' + os.linesep)
-            blog_post.write('<div id="buzzsprout-player-%d"></div>' %
-                            (episode_id_number) + os.linesep)
-            blog_post.write(BeautifulSoup(
-                player_html, 'html.parser').prettify() + os.linesep)
-            blog_post.write(BeautifulSoup(
-                description, 'html.parser').prettify() + os.linesep)
-            blog_post.write('<h2>Transcript</h2>' + os.linesep)
-            blog_post.write(BeautifulSoup(
-                transcript, 'html.parser').prettify() + os.linesep)
+            blog_post.write('{{< buzzsprout-episode' +
+                            ' episode_id_number="%d"' % (episode_id_number) +
+                            ' podcast_id_number="%d"' % (podcast_id_number) +
+                            ' file_name="%s"' % (file_name) +
+                            ' >}}' + os.linesep)
+            blog_post.write('{{< tabs >}}' + os.linesep)
+            blog_post.write('{{< tab "Show Notes" >}}' + os.linesep)
+            blog_post.write('{{< rawhtml >}}' + os.linesep)
+            blog_post.write(description + os.linesep)
+            blog_post.write('{{< /rawhtml >}}' + os.linesep)
+            blog_post.write('{{< /tab >}}' + os.linesep)
+            blog_post.write('{{< tab "Transcript" >}}' + os.linesep)
+            blog_post.write('{{< rawhtml >}}' + os.linesep)
+            blog_post.write(transcript + os.linesep)
+            blog_post.write('{{< /rawhtml >}}' + os.linesep)
+            blog_post.write('{{< /tab >}}' + os.linesep)
+            blog_post.write('{{< /tabs >}}' + os.linesep)
