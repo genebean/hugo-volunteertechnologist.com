@@ -5,7 +5,7 @@ description: "A look at what goes into recording, producing, & publishing an epi
 image: "images/how-its-made-v1.png"
 categories:
   - Behind-the-Scenes
-draft: true
+draft: false
 ---
 
 I've been surprised at all that goes into making and sharing an episode of the Volunteer Technologist podcast. Even as a long time techie and consumer of podcasts about podcasting, it turns out there's more to it than I thought. Not only that, doing a quality production without also doing everything the long and/or hard way is notably more expensive than I expected (see my [contribute page]({{< ref "/contribute" >}}) for details). This post is a look behind the scenes at how I'm doing things. I've entitled it "How it's Made, v1" because I fully expect things to change as I learn more and as some of the tech involved matures, and I plan to post additional iterations in the future.
