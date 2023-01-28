@@ -117,7 +117,7 @@ One thing that you are supposed to do as a podcast host is pick a consistent tim
 
 Buzzsprout has taken the `<podcast:soudbite>` [tag from Podcasting 2.0](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#soundbite) and added a visual component to it that facilitates sharing on social media. They call this [Visual Soundbites (Audiogram)](https://www.buzzsprout.com/help/57-setup-visual-soundbite). Basically, it's a clip from the episode with a visual soundwave of the clip's audio that is useful when promoting an episode. For example:
 
-{{< video "/videos/engineered-reform-with-rj-hill_soundbite.webm" >}}
+{{< video "/videos/engineered-reform-with-rj-hill_soundbite.mp4" "mp4" >}}
 
 ### Publishing Here
 
