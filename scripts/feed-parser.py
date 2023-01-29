@@ -18,6 +18,7 @@ class ReadFeed:
         except Exception as e:
             print('Could not parse the xml: ', self.url)
             print(e)
+        self.host_image_url = self.soup.find('podcast:person', role='host')['img']
         self.items = self.soup.findAll('item')
         self.episodes = []
         for e in self.items:
@@ -85,3 +86,10 @@ if __name__ == '__main__':
             blog_post.write('{{< /rawhtml >}}' + os.linesep)
             blog_post.write('{{< /tab >}}' + os.linesep)
             blog_post.write('{{< /tabs >}}' + os.linesep)
+    with open('content/english/about.md', 'r', encoding='utf-8') as file:
+        about_lines = file.readlines()
+    for i in range(len(about_lines)):
+        if about_lines[i].startswith('image: '):
+            about_lines[i] = 'image: "%s"%s' % (feed.host_image_url, os.linesep)
+    with open('content/english/about.md', 'w', encoding='utf-8') as file:
+        file.writelines(about_lines)
