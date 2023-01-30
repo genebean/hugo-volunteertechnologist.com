@@ -13,6 +13,8 @@ Hello everyone, and welcome to the Volunteer Technologist podcast! Many who are 
 
 I hope you’ll join me on this journey through scouting, church, community groups, fire departments, families, international aide, prison, and more. The technologies used in these volunteer roles might surprise you. You’ll hear about newsletters, websites, networks, sound systems, custom electronics, and anything else that I, or those I interview, have taken responsibility for. Two common threads you’ll likely find between all of these scenarios are passionate people freely giving their time and a desire to do a lot for as little money as possible.
 
-Please take a moment to follow this podcast in your app of choice so that you don’t miss new episodes. if you haven't already, now would also be a great time to go to [newpodcastapps.com](https://newpodcastapps.com) to grab a Podcasting 2.0 app such as Fountain. Listening in one of these new apps will allow you to experience several features that aren’t present in the traditional ones.
+Please take a moment to follow Volunteer Technologist in your app of choice so that you don’t miss new episodes. If you haven't already, now would also be a great time to go to [newpodcastapps.com](https://newpodcastapps.com) to grab a Podcasting 2.0 app such as [Fountain](https://fountain.fm/genebean?code=5cb3b5f06a). Listening in one of these new apps will allow you to experience several features that aren’t present in the traditional ones.
 
-You’re invited to check out volunteertechnologist.com for more information or to get in touch.
+If you'd like to help support ongoing production of this show, then please check out the [Contribute]({{< relref "/contribute" >}}) page to see what I am spending on this show and how you can help.
+
+If you're interested in learning more about what goes into making this show, then checkout my [Behind-the-Scenes]({{< relref "/categories/behind-the-scenes/" >}}) series of blog posts. There I go into great detail about what's involved in making this show and will be documenting how that evolves over time.
