@@ -34,7 +34,7 @@ As if these features weren't enough, there's actually quite a bit more going on 
 
 ## My Desire (the _why_)
 
-As I said before, the Podcasting 2.0 features really resonated with me, so I set out with the intention of utilizing them as fully as I can. My workflow (the _what_) is, therefore, alittle more complicated than that of a show that doesn't implement some of this new functionality. The additional complexity is a byproduct of the fact that much of Podcasting 2.0 is still very new. I fully expect that the complexity will be reduced as thing mature, just as tends to happen with most new technology.
+As I said before, the Podcasting 2.0 features really resonated with me, so I set out with the intention of utilizing them as fully as I can. My workflow (the _what_) is, therefore, a little more complicated than that of a show that doesn't implement some of this new functionality. The additional complexity is a byproduct of the fact that much of Podcasting 2.0 is still very new. I fully expect that the complexity will be reduced as things mature, just as tends to happen with most new technology.
 
 ## My Workflow (the _what_)
 
@@ -45,7 +45,7 @@ With the foundation of where I am coming from laid, let's dive into what I am ac
 At a high level, each episode's creation goes something like this:
 
 1. Find someone who's technically inclined AND who's volunteering that knowledge outside of work.
-2. Pitch the idea of them coming on the show to them.
+2. Pitch them the idea of coming on the show.
 3. Schedule a time outside of normal working hours, or over lunch, to record.
 4. Record an interview for roughly 25-35 minutes without us being in the same place.
 5. Edit the audio.
