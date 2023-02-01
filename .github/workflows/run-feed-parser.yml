@@ -20,13 +20,11 @@ jobs:
     - name: Run rss parser
       run: |
         python scripts/feed-parser.py
-    - name: Simple Diff
-      uses: mudlabs/simple-diff@v1.2.0
-      with:
-        path: content/english
-    - if: steps.diff.outputs.added == false
-      run: exit 1
+    - name: Check if there are changes
+      id: changes
+      uses: UnicornGlobal/has-changes-action@v1.0.11
     - uses: EndBug/add-and-commit@v9
+      if: steps.changes.outputs.changed == 1
       with:
         add: content/english
         message: 'Adding new content from rss feed'
@@ -35,6 +33,7 @@ jobs:
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
     - name: pull-request
+      if: steps.changes.outputs.changed == 1
       uses: repo-sync/pull-request@v2
       with:
         source_branch: 'feed-parser-action'
