@@ -22,7 +22,7 @@ jobs:
         python scripts/feed-parser.py
     - name: Check if there are changes
       id: changes
-      uses: UnicornGlobal/has-changes-action@v1.0.11
+      uses: UnicornGlobal/has-changes-action@v1.0.12
     - uses: EndBug/add-and-commit@v9
       if: steps.changes.outputs.changed == 1
       with:
