@@ -74,6 +74,11 @@ if __name__ == '__main__':
                             ' podcast_id_number="%d"' % (podcast_id_number) +
                             ' file_name="%s"' % (file_name) +
                             ' >}}' + os.linesep)
+            blog_post.write('{{< listen-apple >}}')
+            blog_post.write('{{< listen-overcast >}}')
+            blog_post.write('{{< listen-google >}}')
+            blog_post.write('{{< listen-rss >}}')
+            blog_post.write(os.linesep)
             blog_post.write('{{< tabs >}}' + os.linesep)
             blog_post.write('{{< tab "Show Notes" >}}' + os.linesep)
             blog_post.write('{{< rawhtml >}}' + os.linesep)
