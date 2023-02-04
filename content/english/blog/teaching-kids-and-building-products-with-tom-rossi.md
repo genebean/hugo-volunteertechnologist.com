@@ -18,7 +18,6 @@ title: Teaching Kids and Building Products with Tom Rossi
 
 ---
 {{< buzzsprout-episode episode_id_number="12056055" podcast_id_number="2053906" file_name="teaching-kids-and-building-products-with-tom-rossi" >}}
-{{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
