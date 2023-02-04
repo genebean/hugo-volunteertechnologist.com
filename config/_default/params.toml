@@ -19,7 +19,7 @@ search = true
 sidebar = "true" # sidebar value (true or false)
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script = ""
+custom_script = "<meta name=\"apple-itunes-app\" content=\"app-id=1647870562\">"
 
 mainSections = ["blog"]
 
