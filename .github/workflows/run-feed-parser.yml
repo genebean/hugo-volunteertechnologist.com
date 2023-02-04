@@ -22,7 +22,12 @@ jobs:
         python scripts/feed-parser.py
     - name: Check if there are changes
       id: changes
-      uses: UnicornGlobal/has-changes-action@v1.0.11
+      run: |
+        if output=$(git status --porcelain) && [ -z "$output" ]; then
+          echo "changed=0" >> $GITHUB_OUTPUT
+        else
+          echo "changed=1" >> $GITHUB_OUTPUT
+        fi
     - uses: EndBug/add-and-commit@v9
       if: steps.changes.outputs.changed == 1
       with:
