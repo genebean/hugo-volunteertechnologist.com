@@ -7,7 +7,7 @@ draft: false
 
 ## Value 4 Value
 
-I really appreciate you even considering supporting the production of the Volunteer Technologist podcast! This is a Value 4 Value podcast, which means I'll never charge you to listen. The idea behind Value 4 Value is that people who find the show valueable can contribute whatever they feel it's worth. I love making this podcast, and sincerely hope that you find it valueable, but hosting and producing it does cost money. I feel pretty strongly that since I am asking you to help offset some of the costs that I should elaborate on what they are. With that in mind, here's a look at what I'm spending on the show:
+I really appreciate you even considering supporting the production of the Volunteer Technologist podcast! This is a Value 4 Value podcast, which means I'll never charge you to listen. The idea behind Value 4 Value is that people who find the show valuable can contribute whatever they feel it's worth. I love making this podcast, and sincerely hope that you find it valuable, but hosting and producing it does cost money. I feel pretty strongly that since I am asking you to help offset some of the costs that I should elaborate on what they are. With that in mind, here's a look at what I'm spending on the show:
 
 |      Vendor      |         Use         |     Cost     |                               Notes                                |
 |:----------------:|:-------------------:|:------------:|:------------------------------------------------------------------:|
@@ -20,9 +20,13 @@ I really appreciate you even considering supporting the production of the Volunt
 
 In addition to these fixed costs, I also spend quite a bit of time preparing for each episode and doing the work to transform the raw interview into a polished end product that, hopefully, you enjoy listening to.
 
+### Buzzsprout Subscriptions
+
+If you'd like to help offset some of this cost, or are simply generous and would like to contribute, the easiest way is via my Buzzsprout subscriptions page at <https://www.buzzsprout.com/2053906/support>.
+
 ### Buy Me a Coffee
 
-If you'd like to help offset some of this cost, the easist way is via the Buy Me a Coffee button below. It will take you to my page where you will find both an option for a one-off contribution and the ability to support on a monthly basis by becoming a member.
+Since the Buzzsprout Subscriptions are limited to a few select amounts, and do not support one-off contributions, I also have a By Me A Coffee page where you will find additional options. The button below will take you to that page:
 
 {{< buymeacoffee >}}
 
