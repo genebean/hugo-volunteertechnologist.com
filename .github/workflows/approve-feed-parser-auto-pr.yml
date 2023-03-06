@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Approve pull request
-      if: github.actor == '41898282+github-actions[bot]'
+      #if: github.actor == '41898282+github-actions[bot]'
       uses: andrewmusgrave/automatic-pull-request-review@0.0.5
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
