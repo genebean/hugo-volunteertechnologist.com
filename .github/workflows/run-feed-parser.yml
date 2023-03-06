@@ -34,13 +34,13 @@ jobs:
         add: content/english
         message: 'Adding new content from rss feed'
         push: true
-        new_branch: feed-parser-action
+        new_branch: automation/feed-parser-action
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
     - name: pull-request
       if: steps.changes.outputs.changed == 1
       uses: repo-sync/pull-request@v2
       with:
-        source_branch: 'feed-parser-action'
+        source_branch: 'automation/feed-parser-action'
         destination_branch: 'main'
         github_token: ${{ secrets.GITHUB_TOKEN }}
