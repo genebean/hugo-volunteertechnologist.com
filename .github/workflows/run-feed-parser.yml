@@ -43,4 +43,5 @@ jobs:
       with:
         source_branch: 'automation/feed-parser-action'
         destination_branch: 'main'
+        pr_label: 'automation'
         github_token: ${{ secrets.GITHUB_TOKEN }}
