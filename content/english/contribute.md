@@ -9,14 +9,14 @@ draft: false
 
 I really appreciate you even considering supporting the production of the Volunteer Technologist podcast! This is a Value 4 Value podcast, which means I'll never charge you to listen. The idea behind Value 4 Value is that people who find the show valuable can contribute whatever they feel it's worth. I love making this podcast, and sincerely hope that you find it valuable, but hosting and producing it does cost money. I feel pretty strongly that since I am asking you to help offset some of the costs that I should elaborate on what they are. With that in mind, here's a look at what I'm spending on the show:
 
-|      Vendor      |         Use         |     Cost     |                               Notes                                |
-|:----------------:|:-------------------:|:------------:|:------------------------------------------------------------------:|
-| [Buzzsprout][b]  |       Hosting       | $12.99/month | This covers the hosting and distribution of the actual audio files |
-| [Buzzsprout][m]  |   Magic Mastering   |   $6/month   |                This makes everything sound better.                 |
-|    [Gandi][g]    | Domain registration | $17.75/year  |        This is what lets me use `volunteertechnologist.com`        |
-|    [Otter][o]    |    Transcription    | $99.99/year  |    This is the only way I have found to make a good transcript     |
-|  [Riverside][r]  |      Recording      | $0 (for now) |   So far the free tier has been enough to do interviews remotely   |
-| **Total / year** |                     |   $345.62    |                                                                    |
+|      Vendor      |         Use         |     Cost     |                               Notes                                   |
+|:----------------:|:-------------------:|:------------:|:---------------------------------------------------------------------:|
+| [Buzzsprout][b]  |       Hosting       | $12.99/month | This covers the hosting and distribution of the actual audio files    |
+| [Buzzsprout][m]  |   Magic Mastering   |   $6/month   |                This makes everything sound better.                    |
+|    [Gandi][g]    | Domain registration | $17.75/year  |        This is what lets me use `volunteertechnologist.com`           |
+|    [Otter][o]    |    Transcription    | $99.99/year  |    This is the only way I have found to make a good transcript        |
+|  [Riverside][r]  |      Recording      |   $19/month  | I had to upgrade to a paid tier to continue getting individual tracks |
+| **Total / year** |                     |   $573.62    |                                                                       |
 
 In addition to these fixed costs, I also spend quite a bit of time preparing for each episode and doing the work to transform the raw interview into a polished end product that, hopefully, you enjoy listening to.
 
