@@ -33,8 +33,7 @@ jobs:
       with:
         add: content/english
         message: 'Adding new content from rss feed'
-        push: true
-        new_branch: automation/feed-parser-action
+        push: 'origin automation/feed-parser-action --set-upstream --force'
         committer_name: GitHub Actions
         committer_email: 41898282+github-actions[bot]@users.noreply.github.com
     - name: pull-request
