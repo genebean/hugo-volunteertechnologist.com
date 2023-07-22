@@ -13,10 +13,10 @@ I really appreciate you even considering supporting the production of the Volunt
 |:----------------:|:-------------------:|:------------:|:---------------------------------------------------------------------:|
 | [Buzzsprout][b]  |       Hosting       | $12.99/month | This covers the hosting and distribution of the actual audio files    |
 | [Buzzsprout][m]  |   Magic Mastering   |   $6/month   |                This makes everything sound better.                    |
+| [Buzzsprout][c]  |      Cohost AI      |  $10/month   |    Creates transcripts, show notes, title suggestions, and more       |
 |    [Gandi][g]    | Domain registration | $17.75/year  |        This is what lets me use `volunteertechnologist.com`           |
-|    [Otter][o]    |    Transcription    | $99.99/year  |    This is the only way I have found to make a good transcript        |
 |  [Riverside][r]  |      Recording      |   $19/month  | I had to upgrade to a paid tier to continue getting individual tracks |
-| **Total / year** |                     |   $573.62    |                                                                       |
+| **Total / year** |                     |   $593.63    |                                                                       |
 
 In addition to these fixed costs, I also spend quite a bit of time preparing for each episode and doing the work to transform the raw interview into a polished end product that, hopefully, you enjoy listening to.
 
@@ -44,7 +44,7 @@ Again, thank you for even considering supporting this podcast. I sincerely appre
 [m]: https://www.buzzsprout.com/help/67-magic-mastering
 [g]: https://www.gandi.net
 [r]: https://riverside.fm
-[o]: https://otter.ai
+[c]: https://www.buzzsprout.com/new/80-announcing-cohost-ai
 [f]: https://fountain.fm/genebean?code=5cb3b5f06a
 [t]: https://podcastindex.social/@Todd_Blubrry
 [p]: https://blubrry.com/support/podcasting-2-0-introduction/
