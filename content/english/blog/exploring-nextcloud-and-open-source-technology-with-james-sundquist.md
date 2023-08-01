@@ -22,7 +22,7 @@ description: 'Ever wondered how open source technology is revolutionizing the wa
   support. Get ready to immerse yourself in the fascinating world of open source technology!Links:'
 guid: Buzzsprout-13268521
 image: images/episode-header.png
-title: Exploring Nextcloud and Open Source Technology with James Sunquist
+title: Exploring Nextcloud and Open Source Technology with James Sundquist
 
 ---
 {{< buzzsprout-episode episode_id_number="13268521" podcast_id_number="2053906" file_name="exploring-nextcloud-and-open-source-technology-with-james-sunquist" >}}
