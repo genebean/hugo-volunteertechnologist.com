@@ -25,7 +25,7 @@ image: images/episode-header.png
 title: Exploring Nextcloud and Open Source Technology with James Sundquist
 
 ---
-{{< buzzsprout-episode episode_id_number="13268521" podcast_id_number="2053906" file_name="exploring-nextcloud-and-open-source-technology-with-james-sunquist" >}}
+{{< buzzsprout-episode episode_id_number="13268521" podcast_id_number="2053906" file_name="exploring-nextcloud-and-open-source-technology-with-james-sundquist" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
