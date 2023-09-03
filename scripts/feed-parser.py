@@ -23,7 +23,11 @@ class ReadFeed:
         self.episodes = []
         for e in self.items:
             show_notes = CData(e.find('content:encoded').text)
-            description = BeautifulSoup(show_notes, features="html.parser").p.get_text()
+            first_element = BeautifulSoup(show_notes, features="html.parser").find().name
+            if first_element == 'p':
+                description = BeautifulSoup(show_notes, features="html.parser").p.get_text()
+            elif first_element == 'div':
+                description = BeautifulSoup(show_notes, features="html.parser").div.get_text()
             transcript_url = e.find(
                 'podcast:transcript', type='text/html')['url']
             try:
