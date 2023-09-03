@@ -261,7 +261,7 @@ title: 'Empowering Young Minds: Exploring the World of Robotics and Coding for K
   <p>Thank you, you too. </p>
   <cite>Gene:</cite>
   <time>33:04</time>
-  <p>Bye-bye. You&#39;ve been listening to the Volunteer Technologist podcast. This is a value for value podcast, which means I&#39;ll never charge you to listen. That said, producing and hosting it does cost money. If you got value from today&#39;s show, then I hope you&#39;ll consider contributing to its on-going production by sending a boost with a new podcast app such as Fountain, or via the buy me a coffee link on volunteer technologist dot com forward slash contribute. You can find show notes, transcripts and links to the things talked about in today&#39;s episode at volunteer technologist dot com. Thanks for listening. </p>
+  <p>Bye-bye. You&#39;ve been listening to the Volunteer Technologist podcast. This is a value for value podcast, which means I&#39;ll never charge you to listen. That said, producing and hosting it does cost money. If you got value from today&#39;s show, then I hope you&#39;ll consider contributing to its on- going production by sending a boost with a new podcast app such as Fountain, or via the buy me a coffee link on volunteer technologist dot com forward slash contribute. You can find show notes, transcripts and links to the things talked about in today&#39;s episode at volunteer technologist dot com. Thanks for listening. </p>
 
 {{< /rawhtml >}}
 {{< /tab >}}
