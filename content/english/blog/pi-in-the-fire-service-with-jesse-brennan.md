@@ -5,14 +5,20 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Wed, 01 Mar 2023 05:00:00 -0500
-description: 'Listen as Jesse Brennan talks about how Raspberry Pi 3''s are making
-  a significant impact in his fire department and others across the country. Also,
-  did you now that more than 85% of all fire fighters in the US are volunteers, and
-  that the percentage is significantly higher outside of large cities? Jesse talks
-  about this and how technology is allowing departments to better respond to needs
-  while still being staffed primarily by these volunteers.Links:'
+description: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a
+  significant impact in his fire department and others across the country. Also, did
+  you now that more than 85% of all fire fighters in the US are volunteers, and that
+  the percentage is significantly higher outside of large cities? Jesse talks about
+  this and how technology is allowing departments to better respond to needs while
+  still being staffed primarily by these volunteers.
 guid: Buzzsprout-12216153
 image: images/episode-header.png
+summary: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a significant
+  impact in his fire department and others across the country. Also, did you now that
+  more than 85% of all fire fighters in the US are volunteers, and that the percentage
+  is significantly higher outside of large cities? Jesse talks about this and how
+  technology is allowing departments to better respond to needs while still being
+  staffed primarily by these volunteers.
 title: Pi in the Fire Service with Jesse Brennan
 
 ---

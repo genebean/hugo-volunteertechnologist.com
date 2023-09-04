@@ -8,6 +8,7 @@ date: Fri, 30 Sep 2022 16:00:00 -0400
 description: Welcome to the Volunteer Technologist podcast!
 guid: Buzzsprout-11416227
 image: images/episode-header.png
+summary: Welcome to the Volunteer Technologist podcast!
 title: Volunteer Technologist Trailer
 
 ---
