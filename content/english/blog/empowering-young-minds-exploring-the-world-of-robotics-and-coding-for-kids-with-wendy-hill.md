@@ -5,30 +5,20 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Sat, 01 Jul 2023 05:00:00 -0400
-description: "Ever wondered how robotics and coding can be accessible and fun for\
-  \ kids of all ages? Join me as I chat with Wendy Hill, co-host of Linux Out Loud,\
-  \ about her experience with FIRST LEGO League, a robotics program for kids ages\
-  \ 4-16. Wendy has been involved with FIRST for two seasons and gives us insights\
-  \ into how each level of the program focuses on teamwork and how different countries\
-  \ around the world come together each year for a championship event.\_Wendy takes\
-  \ us through her journey teaching Python, the competitive schedule that comes with\
-  \ being part of the robotics teams, and the regional, state, and world competitions.\
-  \ We also explore the fascinating inner workings of the kids' robots, which are\
-  \ made with Technic LEGO and what looks like rubber bands, and how crucial accurate\
-  \ programming is for these robots to run autonomously. Wendy also explains the innovation\
-  \ projects associated with the robotics program and shares an amazing story of how\
-  \ the her team's kids' idea will save their community $72,000 a day! This episode\
-  \ is filled with inspiring stories and insights into the world of robotics for kids.Lastly,\
-  \ we delve into the details of Wendy's team's journey from regionals to Worlds,\
-  \ a global competition in Texas with over 35,000 people. Discover the different\
-  \ levels of robotics competitions and awards, including the encore game that involves\
-  \ working with an alliance partner. Wendy also shares her thoughts on the cancellation\
-  \ of regionals and why she believes it's an essential learning experience for the\
-  \ kids. So, sit back and enjoy this enlightening episode on the exciting world of\
-  \ robotics and the impact it has on young minds! Trust us; you don't want to miss\
-  \ it!Links mentioned in the show:"
+description: Ever wondered how robotics and coding can be accessible and fun for kids
+  of all ages? Join me as I chat with Wendy Hill, co-host of Linux Out Loud , about
+  her experience with FIRST LEGO League , a robotics program for kids ages 4-16. Wendy
+  has been involved with FIRST for two seasons and gives us insights into how each
+  level of the program focuses on teamwork and how different countries around the
+  world come together each year for a championship event.
 guid: Buzzsprout-13013830
 image: images/episode-header.png
+summary: Ever wondered how robotics and coding can be accessible and fun for kids
+  of all ages? Join me as I chat with Wendy Hill, co-host of Linux Out Loud , about
+  her experience with FIRST LEGO League , a robotics program for kids ages 4-16. Wendy
+  has been involved with FIRST for two seasons and gives us insights into how each
+  level of the program focuses on teamwork and how different countries around the
+  world come together each year for a championship event.
 title: 'Empowering Young Minds: Exploring the World of Robotics and Coding for Kids
   with Wendy Hill'
 

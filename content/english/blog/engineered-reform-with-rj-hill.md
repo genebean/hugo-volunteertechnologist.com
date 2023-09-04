@@ -11,6 +11,10 @@ description: RJ Hill joins me to talk about the volunteer work he does with Engi
   that they can become productive members of society.
 guid: Buzzsprout-11946396
 image: images/episode-header.png
+summary: RJ Hill joins me to talk about the volunteer work he does with Engineered
+  Reform to help people in, or recently released from, prison, neurodiverse individuals,
+  and those working through recovery get jobs in the various technology fields so
+  that they can become productive members of society.
 title: Engineered Reform with RJ Hill
 
 ---

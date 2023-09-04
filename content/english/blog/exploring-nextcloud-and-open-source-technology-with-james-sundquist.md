@@ -5,23 +5,22 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Tue, 01 Aug 2023 05:00:00 -0400
-description: 'Ever wondered how open source technology is revolutionizing the way
-  we store and share data? Well, you are in for a treat! In my latest conversation
-  with James Sundquist, a landscaper with a techie heart, we get down to the nuts
-  and bolts of Nextcloud, an open source file sharing platform that is shaking up
-  the data storage game. James gives us a peek into the Nextcloud Pi project, a genius
-  solution for self-hosting Nextcloud on devices like a Raspberry Pi and the exciting
-  challenges of generating and maintaining documentation with Discourse. Our conversation
-  takes an exciting turn as we explore the continuous evolution of Nextcloud Pi, moving
-  beyond just documentation. Its integration with Matrix and Telegram is breaking
-  down barriers making collaboration a breeze. We also get into the adrenaline rush
-  of the Nextcloud Conference and how Nextcloud Pi is a crucial tool for Nextcloud
-  employees. Then, we move on to James''s personal journey with open source projects,
-  where he masterfully crafts tools for his theatrical projects. Our episode concludes
-  with a heartfelt shoutout to Kyrin from the Mirror Mortals podcast for their unwavering
-  support. Get ready to immerse yourself in the fascinating world of open source technology!Links:'
+description: Ever wondered how open source technology is revolutionizing the way we
+  store and share data? Well, you are in for a treat! In my latest conversation with
+  James Sundquist, a landscaper with a techie heart, we get down to the nuts and bolts
+  of Nextcloud , an open source file sharing platform that is shaking up the data
+  storage game. James gives us a peek into the Nextcloud Pi project, a genius solution
+  for self-hosting Nextcloud on devices like a Raspberry Pi and the exciting challenges
+  of generating and maintaining documentation with Discourse .
 guid: Buzzsprout-13268521
 image: images/episode-header.png
+summary: Ever wondered how open source technology is revolutionizing the way we store
+  and share data? Well, you are in for a treat! In my latest conversation with James
+  Sundquist, a landscaper with a techie heart, we get down to the nuts and bolts of
+  Nextcloud , an open source file sharing platform that is shaking up the data storage
+  game. James gives us a peek into the Nextcloud Pi project, a genius solution for
+  self-hosting Nextcloud on devices like a Raspberry Pi and the exciting challenges
+  of generating and maintaining documentation with Discourse .
 title: Exploring Nextcloud and Open Source Technology with James Sundquist
 
 ---

@@ -5,27 +5,20 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Sun, 03 Sep 2023 15:00:00 -0400
-description: 'Ever wondered how to bridge the communication gap in the tech world?
+description: Ever wondered how to bridge the communication gap in the tech world?
   In my talk with Chris Miller - a tech maestro with an admirable 27-year career -
-  we unravel that and much more! Chris''s vast experience ranges from the inception
+  we unravel that and much more! Chris's vast experience ranges from the inception
   of the first online bookstore to the uprising startup culture in California. His
   desire to give back has seen him guide numerous budding developers, helping them
-  efficaciously communicate with diverse cohorts and maneuver through their careers.As
-  we dive into the essence of mentorship, we uncover Chris''s perspective on understanding
-  customer needs, building trust, and fostering a successful mentor-mentee relationship.
-  Chris also sheds light on the attributes of a good mentor, emphasizing humility,
-  adaptability, and an insatiable love for learning. With his vast wisdom, Chris explains
-  the significance of self-awareness, choosing a mentor who inspires you, yet works
-  differently, and the power of a good reading list. His intriguing adventures with
-  podcasting since 2005 and his unwavering commitment to the open-source community
-  through his volunteer moderation work at Fosstodon are equally captivating. As we
-  navigate through the complexities of tech industry communication, we delve into
-  how mentorship can help individuals understand their own competence and communicate
-  efficiently. This episode guarantees to inspire, encourage curiosity, and provide
-  valuable insights that can be applied in your tech journey. So, tune in and let''s
-  uncover the world of tech through the eyes of a seasoned expert!Links:'
+  efficaciously communicate with diverse cohorts and maneuver through their careers.
 guid: Buzzsprout-13520901
 image: images/episode-header.png
+summary: Ever wondered how to bridge the communication gap in the tech world? In my
+  talk with Chris Miller - a tech maestro with an admirable 27-year career - we unravel
+  that and much more! Chris's vast experience ranges from the inception of the first
+  online bookstore to the uprising startup culture in California. His desire to give
+  back has seen him guide numerous budding developers, helping them efficaciously
+  communicate with diverse cohorts and maneuver through their careers.
 title: 'Bridging the Tech Communication Gap: Insights and Mentorship with Chris Miller'
 
 ---

@@ -5,15 +5,18 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Wed, 01 Feb 2023 05:00:00 -0500
-description: "Tom Rossi, co-founder of Higher Pixels, talks about teaching 3rd graders\
-  \ in his kid's class to code, CodeCombat, being on the board of multiple non-profits,\
-  \ and how he's created multiple products based around making things easier for non-profit\
-  \ organizations, one of which is the podcast host I utilize: Buzzsprout (they are\
-  \ not a sponsor or paying me in any way).\"I want some part of my time to be investing\
-  \ in something that's bigger than just my business\"\_ -- Tom RossiLinks from today's\
-  \ show:"
+description: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
+  in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
+  and how he''s created multiple products based around making things easier for non-profit
+  organizations, one of which is the podcast host I utilize: Buzzsprout (they are
+  not a sponsor or paying me in any way).'
 guid: Buzzsprout-12056055
 image: images/episode-header.png
+summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
+  in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
+  and how he''s created multiple products based around making things easier for non-profit
+  organizations, one of which is the podcast host I utilize: Buzzsprout (they are
+  not a sponsor or paying me in any way).'
 title: Teaching Kids and Building Products with Tom Rossi
 
 ---
