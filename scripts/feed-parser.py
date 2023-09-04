@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from bs4 import CData
 import os
+import re
 import requests
 import yaml
 
@@ -25,9 +26,16 @@ class ReadFeed:
             show_notes = CData(e.find('content:encoded').text)
             first_element = BeautifulSoup(show_notes, features="html.parser").find().name
             if first_element == 'p':
-                description = BeautifulSoup(show_notes, features="html.parser").p.get_text()
+                beginning_text = BeautifulSoup(show_notes, features="html.parser").p
             elif first_element == 'div':
-                description = BeautifulSoup(show_notes, features="html.parser").div.get_text()
+                beginning_text = BeautifulSoup(show_notes, features="html.parser").div
+            br = beginning_text.find('br')
+            if br:
+                before_br = beginning_text.prettify( ).split('<br')[0].replace('\n', ' ') + '</' + first_element + '>'
+                before_br = BeautifulSoup(before_br, features="html.parser").get_text().strip()
+                description = re.sub("\s+"," ", before_br)
+            else:
+                description = beginning_text.get_text()
             transcript_url = e.find(
                 'podcast:transcript', type='text/html')['url']
             try:
@@ -42,6 +50,7 @@ class ReadFeed:
                 'categories': ['Podcast Episode'],
                 'date': e.find('pubDate').text,
                 'description': description,
+                'summary': description,
                 'guid': e.find('guid').text,
                 'image': 'images/episode-header.png',
                 'mp3': e.find('enclosure', type='audio/mpeg')['url'],
