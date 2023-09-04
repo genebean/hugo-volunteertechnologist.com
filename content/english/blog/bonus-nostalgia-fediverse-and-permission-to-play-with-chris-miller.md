@@ -17,10 +17,10 @@ summary: Are you drawn to the nostalgia of the early web days and the charm of o
   this absorbing dialogue, we float into the realms of mastering new coding languages,
   the appeal of the maker mentality, and the joy found in creating for the sake of
   creation, not necessarily for profit.
-title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chirs Miller'
+title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chris Miller'
 
 ---
-{{< buzzsprout-episode episode_id_number="13520904" podcast_id_number="2053906" file_name="bonus-nostalgia-fediverse-and-permission-to-play-with-chirs-miller" >}}
+{{< buzzsprout-episode episode_id_number="13520904" podcast_id_number="2053906" file_name="bonus-nostalgia-fediverse-and-permission-to-play-with-chris-miller" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
