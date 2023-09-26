@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "https://storage.buzzsprout.com/variants/fm98nsvhb0kqccqgzn5lcos7pvct/b208a33b0c96b9476f23081f06de04c8a4ec661141f882ad624138f8a62fb111.png"
+image: "https://storage.buzzsprout.com/variants/fm98nsvhb0kqccqgzn5lcos7pvct/f39677667998d4983b671c898b89f635827f90bc24d585ec289a8d3e04495b83.png"
 description: "An overview of the Volunteer Technologist podcast"
 layout: "about"
 # button: "read more"
