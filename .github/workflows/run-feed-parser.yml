@@ -3,7 +3,7 @@ name: Run Feed Parser
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 5 * * *'  # every day at 5:30am
+    - cron: '30 10 * * *'
 
 jobs:
   build:
