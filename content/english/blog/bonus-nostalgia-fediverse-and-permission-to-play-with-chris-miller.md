@@ -21,7 +21,7 @@ title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chris Miller'
 
 ---
 {{< buzzsprout-episode episode_id_number="13520904" podcast_id_number="2053906" file_name="bonus-nostalgia-fediverse-and-permission-to-play-with-chris-miller" >}}
-{{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
+{{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}

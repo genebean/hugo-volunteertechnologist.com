@@ -89,6 +89,7 @@ if __name__ == '__main__':
                             ' >}}' + os.linesep)
             blog_post.write('{{< listen-apple >}}')
             blog_post.write('{{< listen-overcast >}}')
+            blog_post.write('{{< listen-spotify >}}')
             blog_post.write('{{< listen-google >}}')
             blog_post.write('{{< listen-rss >}}')
             blog_post.write(os.linesep)
