@@ -26,7 +26,7 @@ title: Mitch Downey on the Intersection of Open Source Software, Accessibility, 
 
 ---
 {{< buzzsprout-episode episode_id_number="13650585" podcast_id_number="2053906" file_name="mitch-downey-on-the-intersection-of-open-source-software-accessibility-and-podcasting" >}}
-{{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
+{{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}

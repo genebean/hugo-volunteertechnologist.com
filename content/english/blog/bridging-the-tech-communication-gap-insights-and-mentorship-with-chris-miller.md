@@ -23,7 +23,7 @@ title: 'Bridging the Tech Communication Gap: Insights and Mentorship with Chris 
 
 ---
 {{< buzzsprout-episode episode_id_number="13520901" podcast_id_number="2053906" file_name="bridging-the-tech-communication-gap-insights-and-mentorship-with-chris-miller" >}}
-{{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
+{{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}

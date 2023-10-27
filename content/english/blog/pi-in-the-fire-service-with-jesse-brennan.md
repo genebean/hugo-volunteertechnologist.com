@@ -23,7 +23,7 @@ title: Pi in the Fire Service with Jesse Brennan
 
 ---
 {{< buzzsprout-episode episode_id_number="12216153" podcast_id_number="2053906" file_name="pi-in-the-fire-service-with-jesse-brennan" >}}
-{{< listen-apple >}}{{< listen-overcast >}}{{< listen-google >}}{{< listen-rss >}}
+{{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
