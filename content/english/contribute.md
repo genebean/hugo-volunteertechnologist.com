@@ -32,7 +32,7 @@ Since the Buzzsprout Subscriptions are limited to a few select amounts, and do n
 
 ### Boosts ⚡
 
-Another great way to support the show is by sending a boost with a new podcast app such as [Fountain][f]. Listening in Fountain will also open up several features you won't find in traditional podcast apps such as chapter markers, transcipts, and many more. You can get Fountain via my referral link at [fountain.fm/genebean?code=5cb3b5f06a][f]
+Another great way to support the show is by sending a boost via [conshax.app/support/volunteertechnologist](https://conshax.app/support/volunteertechnologist) or, even better, with a new podcast app such as [Fountain][f]. Listening in Fountain will also open up several features you won't find in traditional podcast apps such as chapter markers, transcipts, and many more. You can get Fountain via my referral link at [fountain.fm/genebean?code=5cb3b5f06a][f]
 
 If you'd like to learn more about boosts or any of the other cool features that new podcast apps like Fountain provide, then I highly suggest checking out the excelent post by [Todd Cochrane][t] entitled [Podcasting 2.0 Introduction][p].
 
