@@ -4,13 +4,14 @@ aliases:
 author: Gene Liverman
 categories:
 - Podcast Episode
-date: Fri, 30 Dec 2022 08:00:00 -0500
+date: Fri, 30 Dec 2022 13:00:00 +0000
 description: RJ Hill joins me to talk about the volunteer work he does with Engineered
   Reform to help people in, or recently released from, prison, neurodiverse individuals,
   and those working through recovery get jobs in the various technology fields so
   that they can become productive members of society.
 guid: Buzzsprout-11946396
 image: images/episode-header.png
+mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094428467633c4780b25-4983-48eb-8b54-63b3397178b5v1.mp3
 summary: RJ Hill joins me to talk about the volunteer work he does with Engineered
   Reform to help people in, or recently released from, prison, neurodiverse individuals,
   and those working through recovery get jobs in the various technology fields so
@@ -18,12 +19,12 @@ summary: RJ Hill joins me to talk about the volunteer work he does with Engineer
 title: Engineered Reform with RJ Hill
 
 ---
-{{< buzzsprout-episode episode_id_number="11946396" podcast_id_number="2053906" file_name="engineered-reform-with-rj-hill" >}}
+{{< podhome-episode podhome_episode_id="c4780b25-4983-48eb-8b54-63b3397178b5" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
-<div>RJ Hill joins me to talk about the volunteer work he does with <a href='https://www.engineeredreform.com/'>Engineered Reform</a> to help people in, or recently released from, prison, neurodiverse individuals, and those working through recovery get jobs in the various technology fields so that they can become productive members of society.<br/><br/></div><div><strong>Links from today&apos;s show:<br/></strong><br/></div><ul><li>RJ Hill: <a href='https://www.linkedin.com/in/raymondjohnhill'>https://www.linkedin.com/in/raymondjohnhill</a></li><li>Engineered Reform: <a href='https://www.engineeredreform.com/'>https://www.engineeredreform.com</a></li><li>Every Girl Shines: <a href='https://everygirlshines.org/'>https://everygirlshines.org</a></li><li>Pluralsight: <a href='https://www.pluralsight.com'>https://www.pluralsight.com</a></li></ul><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br/>See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br/>You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br/>Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
+<div>RJ Hill joins me to talk about the volunteer work he does with <a href='https://www.engineeredreform.com/'>Engineered Reform</a> to help people in, or recently released from, prison, neurodiverse individuals, and those working through recovery get jobs in the various technology fields so that they can become productive members of society.<br /><br/></div><div><strong>Links from today&apos;s show:<br/></strong><br/></div><ul><li>RJ Hill: <a href='https://www.linkedin.com/in/raymondjohnhill'>https://www.linkedin.com/in/raymondjohnhill</a></li><li>Engineered Reform: <a href='https://www.engineeredreform.com/'>https://www.engineeredreform.com</a></li><li>Every Girl Shines: <a href='https://everygirlshines.org/'>https://everygirlshines.org</a></li><li>Pluralsight: <a href='https://www.pluralsight.com'>https://www.pluralsight.com</a></li></ul><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br />See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br />You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br />Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
 {{< /rawhtml >}}
 {{< /tab >}}
 {{< tab "Transcript" >}}

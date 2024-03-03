@@ -4,20 +4,21 @@ aliases:
 author: Gene Liverman
 categories:
 - Podcast Episode
-date: Fri, 30 Sep 2022 16:00:00 -0400
+date: Fri, 30 Sep 2022 20:00:00 +0000
 description: Welcome to the Volunteer Technologist podcast!
 guid: Buzzsprout-11416227
 image: images/episode-header.png
+mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/63841609492724669825443f87-36fa-43a8-a7ff-cb8eaf078770v1.mp3
 summary: Welcome to the Volunteer Technologist podcast!
 title: Volunteer Technologist Trailer
 
 ---
-{{< buzzsprout-episode episode_id_number="11416227" podcast_id_number="2053906" file_name="volunteer-technologist-trailer" >}}
+{{< podhome-episode podhome_episode_id="25443f87-36fa-43a8-a7ff-cb8eaf078770" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
-<p>Welcome to the Volunteer Technologist podcast!</p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br/>See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br/>You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br/>Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
+<p>Welcome to the Volunteer Technologist podcast!</p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br />See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br />You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br />Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
 {{< /rawhtml >}}
 {{< /tab >}}
 {{< tab "Transcript" >}}
