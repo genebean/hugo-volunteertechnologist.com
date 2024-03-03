@@ -24,7 +24,7 @@ summary: Ever wondered how to bridge the communication gap in the tech world? In
 title: 'Bridging the Tech Communication Gap: Insights and Mentorship with Chris Miller'
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="dtzeyJC539" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

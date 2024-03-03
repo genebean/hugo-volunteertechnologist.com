@@ -22,7 +22,7 @@ summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd grad
 title: Teaching Kids and Building Products with Tom Rossi
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="HrClUsafF" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

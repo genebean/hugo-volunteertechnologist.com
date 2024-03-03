@@ -70,10 +70,56 @@ class ReadFeed:
             self.episodes.append(episode)
 
 
+class GetPodhomeEpisodeIds:
+    def __init__(self, podhome_player_api_url, headers):
+        try:
+            self.r = requests.get(podhome_player_api_url, headers=headers)
+            self.status_code = self.r.status_code
+        except Exception as e:
+            print('Error fetching the URL: ', podhome_player_api_url)
+            print(e)
+        try:
+            self.json = self.r.json()
+        except JSONDecodeError:
+            print('Response could not be serialized')
+        except Exception as e:
+            print('Could not parse the json: ', self.url)
+            print(e)
+        self.episode_ids = {}
+        for episode in self.json['episodes']:
+            episode_number = str(episode['episodeNr'])
+            episode_id = str(episode['episodeId'])
+            self.episode_ids[episode_number] = episode_id
+
+
+class GetPodverseEpisodeIds:
+    def __init__(self, podverse_episode_api_url, headers):
+        try:
+            self.r = requests.get(podverse_episode_api_url, headers=headers)
+            self.status_code = self.r.status_code
+        except Exception as e:
+            print('Error fetching the URL: ', podverse_episode_api_url)
+            print(e)
+        try:
+            self.json = self.r.json()
+        except JSONDecodeError:
+            print('Response could not be serialized')
+        except Exception as e:
+            print('Could not parse the json: ', self.url)
+            print(e)
+        self.episode_ids = {}
+        for episode in self.json[0]:
+            episode_number = str(episode['itunesEpisode'])
+            episode_id = str(episode['id'])
+            self.episode_ids[episode_number] = episode_id
+
+
 if __name__ == '__main__':
     podcast_feed = 'https://serve.podhome.fm/rss/ffcba3f9-1fbf-538e-92eb-431d85d92059'
     headers = {'User-Agent': 'feed-to-blog-posts'}
     feed = ReadFeed(podcast_feed, headers)
+    podverse_episode_api_url = 'https://api.podverse.fm/api/v1/episode?podcastId=Kd9Z2u-92d'
+    episode_ids = GetPodverseEpisodeIds(podverse_episode_api_url, headers).episode_ids
     for episode in feed.episodes:
         transcript = episode.pop('transcript')
         show_notes = episode.pop('show_notes').replace(
@@ -88,12 +134,15 @@ if __name__ == '__main__':
         output_file = 'content/english/blog/%s.md' % (formatted_title)
 
         episode_number = str(episode.pop('episode_number'))
+        podverse_episode_id = episode_ids[episode_number]
 
         with open(output_file, 'w') as blog_post:
             blog_post.write('---' + os.linesep)
             blog_post.write(yaml.dump(episode) + os.linesep)
             blog_post.write('---' + os.linesep)
-            blog_post.write('{{< podverse-episode-single >}}' + os.linesep)
+            blog_post.write('{{< podverse-episode-single' +
+                            ' podverse_episode_id="%s"' % (podverse_episode_id) +
+                            ' >}}' + os.linesep)
             blog_post.write('{{< listen-apple >}}')
             blog_post.write('{{< listen-overcast >}}')
             blog_post.write('{{< listen-spotify >}}')

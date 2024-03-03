@@ -22,7 +22,7 @@ summary: In this episode, Terence Eden talks about his project OpenBenches , whi
 title: Uncovering the Stories Behind Memorial Benches with Terrence Eden
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="ZRdkbf6Ul" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

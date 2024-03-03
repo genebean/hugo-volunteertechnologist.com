@@ -1,7 +1,7 @@
 <iframe
-  style="width: 100%; border: 0;" 
+  style="height: 170px; width: 100%; border: 0;" 
   scrolling="no"
-  src="https://podverse.fm/embed/player?podcastId={{ .Page.Params.podverse_podcast_id }}&episodeGuid={{ .Page.Params.guid}}&episodeMediaUrl={{ .Page.Params.mp3 }}&episodeTitle={{ .Page.Params.Title }}&episodePubDate={{ .Page.Params.Date.Unix }}"
+  src="https://podverse.fm/embed/player?episodeId={{ .Get "podverse_episode_id" }}"
   title="Podverse Embed Player" 
   class="pv-embed-player">
 </iframe>

@@ -26,7 +26,7 @@ summary: Ever wondered how open source technology is revolutionizing the way we 
 title: Exploring Nextcloud and Open Source Technology with James Sundquist
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="T87IN2ktO" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

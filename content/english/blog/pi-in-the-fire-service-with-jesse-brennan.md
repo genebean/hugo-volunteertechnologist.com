@@ -24,7 +24,7 @@ summary: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a s
 title: Pi in the Fire Service with Jesse Brennan
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="h2si6xqrr" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

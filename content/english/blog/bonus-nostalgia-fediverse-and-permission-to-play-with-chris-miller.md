@@ -22,7 +22,7 @@ summary: Are you drawn to the nostalgia of the early web days and the charm of o
 title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chris Miller'
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="98QZVpn_c" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

@@ -28,7 +28,7 @@ summary: 'Our journey from the limited use of technology to the now advanced, mu
 title: Banks Glover on 20+ Years of Advancing Faith Through Technology
 
 ---
-{{< podverse-episode-single >}}
+{{< podverse-episode-single podverse_episode_id="JcHBB-QQC" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
