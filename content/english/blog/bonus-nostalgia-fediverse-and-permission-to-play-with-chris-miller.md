@@ -4,7 +4,7 @@ aliases:
 author: Gene Liverman
 categories:
 - Podcast Episode
-date: Mon, 04 Sep 2023 12:00:00 -0400
+date: Mon, 04 Sep 2023 16:00:00 +0000
 description: Are you drawn to the nostalgia of the early web days and the charm of
   open-source communities? Checkout this bonus episode from my interview with Chris
   Miller ! In this absorbing dialogue, we float into the realms of mastering new coding
@@ -12,6 +12,8 @@ description: Are you drawn to the nostalgia of the early web days and the charm 
   the sake of creation, not necessarily for profit.
 guid: Buzzsprout-13520904
 image: images/episode-header.png
+mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416095124301974aa96f070-b41d-45be-8d17-d79cde5c468ev1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Are you drawn to the nostalgia of the early web days and the charm of open-source
   communities? Checkout this bonus episode from my interview with Chris Miller ! In
   this absorbing dialogue, we float into the realms of mastering new coding languages,
@@ -20,12 +22,12 @@ summary: Are you drawn to the nostalgia of the early web days and the charm of o
 title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chris Miller'
 
 ---
-{{< buzzsprout-episode episode_id_number="13520904" podcast_id_number="2053906" file_name="bonus-nostalgia-fediverse-and-permission-to-play-with-chris-miller" >}}
+{{< podverse-episode-single podverse_episode_id="98QZVpn_c" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
-<p>Are you drawn to the nostalgia of the early web days and the charm of open-source communities? Checkout this bonus episode from my interview with <a href='https://ctmiller.net/'>Chris Miller</a>! In this absorbing dialogue, we float into the realms of mastering new coding languages, the appeal of the maker mentality, and the joy found in creating for the sake of creation, not necessarily for profit.<br/>Listen as we unfold the beautiful concept of giving yourself the freedom to learn and recreate projects, the advantages of reimplementing existing projects in new languages, and how vital the spirit of play is in technological innovation. <a href='https://ctmiller.net/'>Chris</a> also unravels the impact of volunteering in tech on community organizations, emphasizing the value of creation over profit. This episode is a true homage to the satisfaction derived from building, learning, and contributing to a community.<br/>This bonus episode was the happy byproduct of a tangent during <a href='https://www.volunteertechnologist.com/episode/7'>our chat on mentoring in the last episode</a>. It didn&apos;t fit the topic there, but was too good not to share. Enjoy!</p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br/>See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br/>You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br/>Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
+<p>Are you drawn to the nostalgia of the early web days and the charm of open-source communities? Checkout this bonus episode from my interview with <a href='https://ctmiller.net/'>Chris Miller</a>! In this absorbing dialogue, we float into the realms of mastering new coding languages, the appeal of the maker mentality, and the joy found in creating for the sake of creation, not necessarily for profit.<br />Listen as we unfold the beautiful concept of giving yourself the freedom to learn and recreate projects, the advantages of reimplementing existing projects in new languages, and how vital the spirit of play is in technological innovation. <a href='https://ctmiller.net/'>Chris</a> also unravels the impact of volunteering in tech on community organizations, emphasizing the value of creation over profit. This episode is a true homage to the satisfaction derived from building, learning, and contributing to a community.<br />This bonus episode was the happy byproduct of a tangent during <a href='https://www.volunteertechnologist.com/episode/7'>our chat on mentoring in the last episode</a>. It didn&apos;t fit the topic there, but was too good not to share. Enjoy!</p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br />See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br />You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br />Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
 {{< /rawhtml >}}
 {{< /tab >}}
 {{< tab "Transcript" >}}

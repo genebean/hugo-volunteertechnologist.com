@@ -1,4 +1,5 @@
 ---
 title: "Listening Lounge"
+podverse_podcast_id: Kd9Z2u-92d
 ---
-{{< buzzsprout-large-multi-episode-player "2053906" >}}
+{{< podverse-episode-all >}}

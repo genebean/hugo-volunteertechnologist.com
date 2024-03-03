@@ -4,7 +4,7 @@ aliases:
 author: Gene Liverman
 categories:
 - Podcast Episode
-date: Wed, 01 Feb 2023 05:00:00 -0500
+date: Wed, 01 Feb 2023 10:00:00 +0000
 description: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
   in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
   and how he''s created multiple products based around making things easier for non-profit
@@ -12,6 +12,8 @@ description: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd 
   not a sponsor or paying me in any way).'
 guid: Buzzsprout-12056055
 image: images/episode-header.png
+mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416093754521453f96db994-b023-4f8f-a04f-0408349a1246v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
   in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
   and how he''s created multiple products based around making things easier for non-profit
@@ -20,12 +22,12 @@ summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd grad
 title: Teaching Kids and Building Products with Tom Rossi
 
 ---
-{{< buzzsprout-episode episode_id_number="12056055" podcast_id_number="2053906" file_name="teaching-kids-and-building-products-with-tom-rossi" >}}
+{{< podverse-episode-single podverse_episode_id="HrClUsafF" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
-<p>Tom Rossi, co-founder of <a href='https://www.higherpixels.com'>Higher Pixels</a>, talks about teaching 3rd graders in his kid&apos;s class to code, <a href='https://codecombat.com'>CodeCombat</a>, being on the board of multiple non-profits, and how he&apos;s created multiple products based around making things easier for non-profit organizations, one of which is the podcast host I utilize: Buzzsprout (they are not a sponsor or paying me in any way).<br/>&quot;I want some part of my time to be investing in something that&apos;s bigger than just my business&quot;  -- Tom Rossi<br/><b>Links from today&apos;s show:</b></p><ul><li><a href='https://hourofcode.com/'>Hour of Code</a></li><li><a href='https://codecombat.com/'>CodeCombat</a></li><li><a href='https://code.org'>Code.org</a></li><li><a href='https://www.donortools.com/'>Donor Tools</a></li><li><a href='https://www.buzzsprout.com/?referrer_id=1803680'>Buzzsprout</a> (referral link that only benefits me if you sign up)</li><li><a href='https://younglife.org'>Young Life</a></li><li><a href='https://twitter.com/tomrossi7'>@tomrossi7 on Twitter</a></li></ul><p></p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br/>See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br/>You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br/>Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
+<p>Tom Rossi, co-founder of <a href='https://www.higherpixels.com'>Higher Pixels</a>, talks about teaching 3rd graders in his kid&apos;s class to code, <a href='https://codecombat.com'>CodeCombat</a>, being on the board of multiple non-profits, and how he&apos;s created multiple products based around making things easier for non-profit organizations, one of which is the podcast host I utilize: Buzzsprout (they are not a sponsor or paying me in any way).<br />&quot;I want some part of my time to be investing in something that&apos;s bigger than just my business&quot;  -- Tom Rossi<br /><b>Links from today&apos;s show:</b></p><ul><li><a href='https://hourofcode.com/'>Hour of Code</a></li><li><a href='https://codecombat.com/'>CodeCombat</a></li><li><a href='https://code.org'>Code.org</a></li><li><a href='https://www.donortools.com/'>Donor Tools</a></li><li><a href='https://www.buzzsprout.com/?referrer_id=1803680'>Buzzsprout</a> (referral link that only benefits me if you sign up)</li><li><a href='https://younglife.org'>Young Life</a></li><li><a href='https://twitter.com/tomrossi7'>@tomrossi7 on Twitter</a></li></ul><p></p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br />See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br />You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br />Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
 {{< /rawhtml >}}
 {{< /tab >}}
 {{< tab "Transcript" >}}
