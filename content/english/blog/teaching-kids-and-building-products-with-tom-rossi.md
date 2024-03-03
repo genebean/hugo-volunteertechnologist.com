@@ -13,6 +13,7 @@ description: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd 
 guid: Buzzsprout-12056055
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416093754521453f96db994-b023-4f8f-a04f-0408349a1246v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
   in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
   and how he''s created multiple products based around making things easier for non-profit
@@ -21,7 +22,7 @@ summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd grad
 title: Teaching Kids and Building Products with Tom Rossi
 
 ---
-{{< podhome-episode podhome_episode_id="f96db994-b023-4f8f-a04f-0408349a1246" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

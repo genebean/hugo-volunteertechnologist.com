@@ -15,6 +15,7 @@ description: Ever wondered about the mechanics of making an app accessible to al
 guid: Buzzsprout-13650585
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160952126227817b4cc672-af63-455c-aa62-e92b7361ab7ev1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Ever wondered about the mechanics of making an app accessible to all users?
   Journey with us as we explore this important topic with Mitch Downey , the co-founder
   of the Podverse podcast app. He shares his commitment to enhancing the app's accessibility
@@ -26,7 +27,7 @@ title: Mitch Downey on the Intersection of Open Source Software, Accessibility, 
   Podcasting
 
 ---
-{{< podhome-episode podhome_episode_id="7b4cc672-af63-455c-aa62-e92b7361ab7e" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

@@ -12,6 +12,7 @@ description: RJ Hill joins me to talk about the volunteer work he does with Engi
 guid: Buzzsprout-11946396
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094428467633c4780b25-4983-48eb-8b54-63b3397178b5v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: RJ Hill joins me to talk about the volunteer work he does with Engineered
   Reform to help people in, or recently released from, prison, neurodiverse individuals,
   and those working through recovery get jobs in the various technology fields so
@@ -19,7 +20,7 @@ summary: RJ Hill joins me to talk about the volunteer work he does with Engineer
 title: Engineered Reform with RJ Hill
 
 ---
-{{< podhome-episode podhome_episode_id="c4780b25-4983-48eb-8b54-63b3397178b5" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

@@ -14,6 +14,7 @@ description: Ever wondered how robotics and coding can be accessible and fun for
 guid: Buzzsprout-13013830
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094262771956fa53f050-6e3a-4f5d-80f6-5878e837b11fv1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Ever wondered how robotics and coding can be accessible and fun for kids
   of all ages? Join me as I chat with Wendy Hill, co-host of Linux Out Loud , about
   her experience with FIRST LEGO League , a robotics program for kids ages 4-16. Wendy
@@ -24,7 +25,7 @@ title: 'Empowering Young Minds: Exploring the World of Robotics and Coding for K
   with Wendy Hill'
 
 ---
-{{< podhome-episode podhome_episode_id="fa53f050-6e3a-4f5d-80f6-5878e837b11f" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

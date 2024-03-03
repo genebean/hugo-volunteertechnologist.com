@@ -14,6 +14,7 @@ description: Prepare to step into the world of Dragon Con and MomoCon , two mult
 guid: Buzzsprout-13975141
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094605189409d3663794-09ef-4689-b070-a5c5b63ad803v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Prepare to step into the world of Dragon Con and MomoCon , two multi-genre
   pop culture conventions that have on massive volunteer teams. I have the pleasure
   of talking with Dimitri Tarassenko, a software engineer who donates his time and
@@ -24,7 +25,7 @@ title: Behind-The-Scenes of Video Production at Dragon Con and MomoCon with Dimi
   Tarassenko
 
 ---
-{{< podhome-episode podhome_episode_id="d3663794-09ef-4689-b070-a5c5b63ad803" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

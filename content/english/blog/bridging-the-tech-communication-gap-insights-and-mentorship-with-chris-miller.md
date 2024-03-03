@@ -14,6 +14,7 @@ description: Ever wondered how to bridge the communication gap in the tech world
 guid: Buzzsprout-13520901
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160939141546444a6dbf9b-765b-4661-b64b-111cecb52254v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Ever wondered how to bridge the communication gap in the tech world? In my
   talk with Chris Miller - a tech maestro with an admirable 27-year career - we unravel
   that and much more! Chris's vast experience ranges from the inception of the first
@@ -23,7 +24,7 @@ summary: Ever wondered how to bridge the communication gap in the tech world? In
 title: 'Bridging the Tech Communication Gap: Insights and Mentorship with Chris Miller'
 
 ---
-{{< podhome-episode podhome_episode_id="4a6dbf9b-765b-4661-b64b-111cecb52254" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

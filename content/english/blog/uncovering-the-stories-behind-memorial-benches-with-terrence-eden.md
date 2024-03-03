@@ -13,6 +13,7 @@ description: In this episode, Terence Eden talks about his project OpenBenches ,
 guid: ab56ec85-b938-4716-be70-6c3e6b27af88
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638448577186119161ab56ec85-b938-4716-be70-6c3e6b27af88v2.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: In this episode, Terence Eden talks about his project OpenBenches , which
   aims to create a database of memorial benches around the world. He discusses how
   the project started, the challenges they faced, and the impact it has had. Terence
@@ -21,7 +22,7 @@ summary: In this episode, Terence Eden talks about his project OpenBenches , whi
 title: Uncovering the Stories Behind Memorial Benches with Terrence Eden
 
 ---
-{{< podhome-episode podhome_episode_id="ab56ec85-b938-4716-be70-6c3e6b27af88" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

@@ -13,6 +13,7 @@ description: Are you drawn to the nostalgia of the early web days and the charm 
 guid: Buzzsprout-13520904
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416095124301974aa96f070-b41d-45be-8d17-d79cde5c468ev1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Are you drawn to the nostalgia of the early web days and the charm of open-source
   communities? Checkout this bonus episode from my interview with Chris Miller ! In
   this absorbing dialogue, we float into the realms of mastering new coding languages,
@@ -21,7 +22,7 @@ summary: Are you drawn to the nostalgia of the early web days and the charm of o
 title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chris Miller'
 
 ---
-{{< podhome-episode podhome_episode_id="aa96f070-b41d-45be-8d17-d79cde5c468e" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

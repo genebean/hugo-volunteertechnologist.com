@@ -9,11 +9,12 @@ description: Welcome to the Volunteer Technologist podcast!
 guid: Buzzsprout-11416227
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/63841609492724669825443f87-36fa-43a8-a7ff-cb8eaf078770v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Welcome to the Volunteer Technologist podcast!
 title: Volunteer Technologist Trailer
 
 ---
-{{< podhome-episode podhome_episode_id="25443f87-36fa-43a8-a7ff-cb8eaf078770" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

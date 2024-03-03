@@ -14,6 +14,7 @@ description: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making
 guid: Buzzsprout-12216153
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160947838305734b1b2032-5538-4a7d-83f3-a8f3339a7076v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a significant
   impact in his fire department and others across the country. Also, did you now that
   more than 85% of all fire fighters in the US are volunteers, and that the percentage
@@ -23,7 +24,7 @@ summary: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a s
 title: Pi in the Fire Service with Jesse Brennan
 
 ---
-{{< podhome-episode podhome_episode_id="4b1b2032-5538-4a7d-83f3-a8f3339a7076" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

@@ -16,6 +16,7 @@ description: 'Our journey from the limited use of technology to the now advanced
 guid: Buzzsprout-13869898
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/63841609408375318508a405f6-c0f5-41d2-a709-33cae23835cev1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: 'Our journey from the limited use of technology to the now advanced, multifaceted
   use of digital tools in the church is indeed a remarkable one. Come share the laughter,
   challenges, triumphs, and a bit of history with my guest Banks Glover: an invaluable
@@ -27,7 +28,7 @@ summary: 'Our journey from the limited use of technology to the now advanced, mu
 title: Banks Glover on 20+ Years of Advancing Faith Through Technology
 
 ---
-{{< podhome-episode podhome_episode_id="08a405f6-c0f5-41d2-a709-33cae23835ce" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

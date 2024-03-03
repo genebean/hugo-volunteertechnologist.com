@@ -15,6 +15,7 @@ description: Ever wondered how open source technology is revolutionizing the way
 guid: Buzzsprout-13268521
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094984372334c638311b-63fb-4a28-b2b2-d2c928290a97v1.mp3
+podverse_podcast_id: Kd9Z2u-92d
 summary: Ever wondered how open source technology is revolutionizing the way we store
   and share data? Well, you are in for a treat! In my latest conversation with James
   Sundquist, a landscaper with a techie heart, we get down to the nuts and bolts of
@@ -25,7 +26,7 @@ summary: Ever wondered how open source technology is revolutionizing the way we 
 title: Exploring Nextcloud and Open Source Technology with James Sundquist
 
 ---
-{{< podhome-episode podhome_episode_id="c638311b-63fb-4a28-b2b2-d2c928290a97" >}}
+{{< podverse-episode-single >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
