@@ -1,0 +1,26 @@
+{{- $mp3 := "" -}}
+{{- $episode_artwork := "" -}}
+{{- $transcript_vtt := "" -}}
+
+{{- if .IsNamedParams }}
+    {{- $mp3 = .Get "src" -}}
+    {{- $episode_artwork = .Get "poster" -}}
+    {{- $transcript_vtt = .Get "transcript" -}}
+{{- else }}
+    {{- $mp3 = .Page.Params.mp3 -}}
+    {{- $episode_artwork = .Page.Params.episode_artwork -}}
+    {{- $transcript_vtt = .Page.Params.transcript_vtt -}}
+{{- end }}
+
+<figure>
+<video playsinline controls preload="none" width="100%" crossOrigin="anonymous"
+  poster="{{ $episode_artwork | relURL }}" >
+  <source src="{{ $mp3 | relURL }}">
+  {{ with $transcript_vtt }}<track kind="subtitles" srclang="en" label="English" default
+    src="{{ . | relURL }}" />{{ end }}
+  <p>
+    Your browser does not support HTML5 video.
+    Here is <a href="{{ $mp3 | relURL }}">">a link to download the video</a>.
+  </p>
+</video>
+</figure>
