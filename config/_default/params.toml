@@ -19,7 +19,7 @@ search = true
 sidebar = "true" # sidebar value (true or false)
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script = "<meta name=\"apple-itunes-app\" content=\"app-id=1647870562\">"
+custom_script = "<meta name=\"apple-itunes-app\" content=\"app-id=1647870562\"> <link href=\"https://vjs.zencdn.net/8.10.0/video-js.css\" rel=\"stylesheet\" />"
 
 mainSections = ["blog"]
 

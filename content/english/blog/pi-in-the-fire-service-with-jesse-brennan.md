@@ -11,6 +11,7 @@ description: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making
   the percentage is significantly higher outside of large cities? Jesse talks about
   this and how technology is allowing departments to better respond to needs while
   still being staffed primarily by these volunteers.
+episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160947739043355819ad.jpg
 guid: Buzzsprout-12216153
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160947838305734b1b2032-5538-4a7d-83f3-a8f3339a7076v1.mp3
@@ -22,14 +23,15 @@ summary: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a s
   technology is allowing departments to better respond to needs while still being
   staffed primarily by these volunteers.
 title: Pi in the Fire Service with Jesse Brennan
+transcript_vtt: ''
 
 ---
-{{< podverse-episode-single podverse_episode_id="h2si6xqrr" >}}
+{{< episode-player >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
 {{< rawhtml >}}
-<p>Listen as Jesse Brennan talks about how Raspberry Pi 3&apos;s are making a significant impact in his fire department and others across the country. Also, did you now that more than 85% of all fire fighters in the US are volunteers, and that the percentage is significantly higher outside of large cities? Jesse talks about this and how technology is allowing departments to better respond to needs while still being staffed primarily by these volunteers.<br /><b>Links:</b></p><ul><li><a href='https://github.com/CtrlAltJesse/IAmRespondingKiosk'>I Am Responding Kiosk</a></li><li>You can reach Jesse via email at <a href='mailto:me@jesse-brennan.com'>me@jesse-brennan.com</a></li></ul><p> </p><a rel="payment" href="https://www.buzzsprout.com/2053906/support">Support the show</a><p>Send a boost with a new podcast app such as <a href='https://fountain.fm/genebean?code=5cb3b5f06a'>Fountain</a> or via <a href='https://conshax.app/support/volunteertechnologist'>conshax.app/support/volunteertechnologist</a><br />See all the ways to contribute, and what producing this podcast costs, at <a href='https://www.volunteertechnologist.com/contribute/'>volunteertechnologist.com/contribute/</a><br />You can find me on Mastodon at <a href='https://podcastindex.social/@volunteertechnologist'>podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href='https://www.volunteertechnologist.com/contact/'>volunteertechnologist.com/contact/</a><br />Visit <a href='https://www.volunteertechnologist.com/'>volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
+Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a significant impact in his fire department and others across the country. Also, did you now that more than 85% of all fire fighters in the US are volunteers, and that the percentage is significantly higher outside of large cities? Jesse talks about this and how technology is allowing departments to better respond to needs while still being staffed primarily by these volunteers.<br /><strong>Links:</strong><br /><ul><li><a href="https://github.com/CtrlAltJesse/IAmRespondingKiosk" target="_blank">I Am Responding Kiosk</a></li><li>You can reach Jesse via email at <a target="_blank">me@jesse-brennan.com</a></li></ul><br /> <p>Support the show via <a href="https://www.buymeacoffee.com/genebean" target="_blank">Buy Me a Coffee</a><br />Send a boost with a new podcast app such as <a href="https://fountain.fm/genebean?code=5cb3b5f06a" target="_blank">Fountain</a> or via <a href="https://conshax.app/support/volunteertechnologist" target="_blank">conshax.app/support/volunteertechnologist</a><br />See all the ways to contribute, and what producing this podcast costs, at <a href="https://www.volunteertechnologist.com/contribute/" target="_blank">volunteertechnologist.com/contribute/</a><br />You can find me on Mastodon at <a href="https://podcastindex.social/@volunteertechnologist" target="_blank">podcastindex.social/@volunteertechnologist</a> You can also reach me via <a href="https://www.volunteertechnologist.com/contact/" target="_blank">volunteertechnologist.com/contact/</a><br />Visit <a href="https://www.volunteertechnologist.com/" target="_blank">volunteertechnologist.com</a> for show notes, transcripts, or more information.</p>
 {{< /rawhtml >}}
 {{< /tab >}}
 {{< tab "Transcript" >}}
