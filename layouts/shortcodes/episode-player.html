@@ -13,7 +13,9 @@
 {{- end }}
 
 <figure>
-<video playsinline controls preload="none" width="100%" crossOrigin="anonymous"
+<video crossOrigin="anonymous"
+  data-setup='{"controls": true, "autoplay": false, "preload": "none", "audioPosterMode": true, "width": 300, "height": 300, "nativeTextTracks": true}'
+  class="video-js"
   poster="{{ $episode_artwork | relURL }}" >
   <source src="{{ $mp3 | relURL }}">
   {{ with $transcript_vtt }}<track kind="subtitles" srclang="en" label="English" default
@@ -23,4 +25,6 @@
     Here is <a href="{{ $mp3 | relURL }}">">a link to download the video</a>.
   </p>
 </video>
+<script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
 </figure>
+<br />
