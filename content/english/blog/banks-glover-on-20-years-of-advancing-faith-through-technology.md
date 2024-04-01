@@ -5,32 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Wed, 01 Nov 2023 09:00:00 +0000
-description: 'Our journey from the limited use of technology to the now advanced,
-  multifaceted use of digital tools in the church is indeed a remarkable one. Come
-  share the laughter, challenges, triumphs, and a bit of history with my guest Banks
-  Glover: an invaluable member of my church and a life-long technology enthusiast
-  that has been volunteering his skills for since before the turn of the century.
-  In this candid discussion, Banks shares his fascinating journey of introducing the
-  first computer into Central Baptist Church of Newnan, Georgia in 2000 and the transformative
-  implications that followed.'
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160940696261435819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13869898
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/63841609408375318508a405f6-c0f5-41d2-a709-33cae23835cev1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: 'Our journey from the limited use of technology to the now advanced, multifaceted
-  use of digital tools in the church is indeed a remarkable one. Come share the laughter,
-  challenges, triumphs, and a bit of history with my guest Banks Glover: an invaluable
-  member of my church and a life-long technology enthusiast that has been volunteering
-  his skills for since before the turn of the century. In this candid discussion,
-  Banks shares his fascinating journey of introducing the first computer into Central
-  Baptist Church of Newnan, Georgia in 2000 and the transformative implications that
-  followed.'
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Banks Glover on 20+ Years of Advancing Faith Through Technology
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="JcHBB-QQC" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

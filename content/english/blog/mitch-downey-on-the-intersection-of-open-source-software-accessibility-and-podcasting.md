@@ -5,31 +5,25 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Sun, 01 Oct 2023 09:00:00 +0000
-description: Ever wondered about the mechanics of making an app accessible to all
-  users? Journey with us as we explore this important topic with Mitch Downey , the
-  co-founder of the Podverse podcast app. He shares his commitment to enhancing the
-  app's accessibility after consultation with an expert. We plunge into the world
-  of open source platforms, underscoring its vital role in fostering inclusion, especially
-  for the visually impaired, and discuss the significant role color contrast plays
-  in designing an accessible app.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160951973891665819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13650585
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160952126227817b4cc672-af63-455c-aa62-e92b7361ab7ev1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Ever wondered about the mechanics of making an app accessible to all users?
-  Journey with us as we explore this important topic with Mitch Downey , the co-founder
-  of the Podverse podcast app. He shares his commitment to enhancing the app's accessibility
-  after consultation with an expert. We plunge into the world of open source platforms,
-  underscoring its vital role in fostering inclusion, especially for the visually
-  impaired, and discuss the significant role color contrast plays in designing an
-  accessible app.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Mitch Downey on the Intersection of Open Source Software, Accessibility, and
   Podcasting
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="HGkkTVooc" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

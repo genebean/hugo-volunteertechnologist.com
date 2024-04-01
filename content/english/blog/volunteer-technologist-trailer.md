@@ -5,18 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Fri, 30 Sep 2022 20:00:00 +0000
-description: Welcome to the Volunteer Technologist podcast!
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160936669426177c1921.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-11416227
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/63841609492724669825443f87-36fa-43a8-a7ff-cb8eaf078770v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Welcome to the Volunteer Technologist podcast!
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Volunteer Technologist Trailer
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="Nejykz4oQ" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

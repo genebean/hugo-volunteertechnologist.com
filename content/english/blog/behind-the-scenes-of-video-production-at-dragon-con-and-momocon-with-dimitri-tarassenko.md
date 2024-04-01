@@ -5,29 +5,25 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Fri, 01 Dec 2023 10:00:00 +0000
-description: Prepare to step into the world of Dragon Con and MomoCon , two multi-genre
-  pop culture conventions that have on massive volunteer teams. I have the pleasure
-  of talking with Dimitri Tarassenko, a software engineer who donates his time and
-  skills to support the media production at these massive events. Dimitri's behind-the-scenes
-  insights will take you on a journey through the intricate operations that make these
-  conventions a reality.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160945986519945819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13975141
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094605189409d3663794-09ef-4689-b070-a5c5b63ad803v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Prepare to step into the world of Dragon Con and MomoCon , two multi-genre
-  pop culture conventions that have on massive volunteer teams. I have the pleasure
-  of talking with Dimitri Tarassenko, a software engineer who donates his time and
-  skills to support the media production at these massive events. Dimitri's behind-the-scenes
-  insights will take you on a journey through the intricate operations that make these
-  conventions a reality.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Behind-The-Scenes of Video Production at Dragon Con and MomoCon with Dimitri
   Tarassenko
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="KFfl0_sIZ" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

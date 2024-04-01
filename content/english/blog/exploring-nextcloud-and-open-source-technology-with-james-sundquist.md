@@ -5,30 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Tue, 01 Aug 2023 09:00:00 +0000
-description: Ever wondered how open source technology is revolutionizing the way we
-  store and share data? Well, you are in for a treat! In my latest conversation with
-  James Sundquist, a landscaper with a techie heart, we get down to the nuts and bolts
-  of Nextcloud , an open source file sharing platform that is shaking up the data
-  storage game. James gives us a peek into the Nextcloud Pi project, a genius solution
-  for self-hosting Nextcloud on devices like a Raspberry Pi and the exciting challenges
-  of generating and maintaining documentation with Discourse .
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160949715891985819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13268521
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094984372334c638311b-63fb-4a28-b2b2-d2c928290a97v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Ever wondered how open source technology is revolutionizing the way we store
-  and share data? Well, you are in for a treat! In my latest conversation with James
-  Sundquist, a landscaper with a techie heart, we get down to the nuts and bolts of
-  Nextcloud , an open source file sharing platform that is shaking up the data storage
-  game. James gives us a peek into the Nextcloud Pi project, a genius solution for
-  self-hosting Nextcloud on devices like a Raspberry Pi and the exciting challenges
-  of generating and maintaining documentation with Discourse .
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Exploring Nextcloud and Open Source Technology with James Sundquist
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="T87IN2ktO" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

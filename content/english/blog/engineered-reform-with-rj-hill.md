@@ -5,24 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Fri, 30 Dec 2022 13:00:00 +0000
-description: RJ Hill joins me to talk about the volunteer work he does with Engineered
-  Reform to help people in, or recently released from, prison, neurodiverse individuals,
-  and those working through recovery get jobs in the various technology fields so
-  that they can become productive members of society.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160944154981995819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-11946396
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094428467633c4780b25-4983-48eb-8b54-63b3397178b5v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: RJ Hill joins me to talk about the volunteer work he does with Engineered
-  Reform to help people in, or recently released from, prison, neurodiverse individuals,
-  and those working through recovery get jobs in the various technology fields so
-  that they can become productive members of society.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Engineered Reform with RJ Hill
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="wM7-p_1fM" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

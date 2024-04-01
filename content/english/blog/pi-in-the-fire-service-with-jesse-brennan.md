@@ -5,28 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Wed, 01 Mar 2023 10:00:00 +0000
-description: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a
-  significant impact in his fire department and others across the country. Also, did
-  you now that more than 85% of all fire fighters in the US are volunteers, and that
-  the percentage is significantly higher outside of large cities? Jesse talks about
-  this and how technology is allowing departments to better respond to needs while
-  still being staffed primarily by these volunteers.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160947739043355819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-12216153
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160947838305734b1b2032-5538-4a7d-83f3-a8f3339a7076v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Listen as Jesse Brennan talks about how Raspberry Pi 3's are making a significant
-  impact in his fire department and others across the country. Also, did you now that
-  more than 85% of all fire fighters in the US are volunteers, and that the percentage
-  is significantly higher outside of large cities? Jesse talks about this and how
-  technology is allowing departments to better respond to needs while still being
-  staffed primarily by these volunteers.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Pi in the Fire Service with Jesse Brennan
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="h2si6xqrr" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

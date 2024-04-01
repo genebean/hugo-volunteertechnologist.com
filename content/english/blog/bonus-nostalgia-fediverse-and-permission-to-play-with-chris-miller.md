@@ -5,26 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Mon, 04 Sep 2023 16:00:00 +0000
-description: Are you drawn to the nostalgia of the early web days and the charm of
-  open-source communities? Checkout this bonus episode from my interview with Chris
-  Miller ! In this absorbing dialogue, we float into the realms of mastering new coding
-  languages, the appeal of the maker mentality, and the joy found in creating for
-  the sake of creation, not necessarily for profit.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160951116759215819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13520904
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416095124301974aa96f070-b41d-45be-8d17-d79cde5c468ev1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Are you drawn to the nostalgia of the early web days and the charm of open-source
-  communities? Checkout this bonus episode from my interview with Chris Miller ! In
-  this absorbing dialogue, we float into the realms of mastering new coding languages,
-  the appeal of the maker mentality, and the joy found in creating for the sake of
-  creation, not necessarily for profit.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: 'Bonus: Nostalgia, Fediverse, and Permission to Play with Chris Miller'
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="98QZVpn_c" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

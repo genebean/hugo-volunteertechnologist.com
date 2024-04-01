@@ -10,7 +10,6 @@ description: In this episode, Terence Eden talks about his project OpenBenches ,
   the project started, the challenges they faced, and the impact it has had. Terence
   also shares his thoughts on gamification and the future of mapping with OpenStreetMap
   and the Fediverse .
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638448611148642029Volunteer%20Technologist%20Episode%20012.jpg
 guid: ab56ec85-b938-4716-be70-6c3e6b27af88
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638448577186119161ab56ec85-b938-4716-be70-6c3e6b27af88v2.mp3
@@ -21,10 +20,9 @@ summary: In this episode, Terence Eden talks about his project OpenBenches , whi
   also shares his thoughts on gamification and the future of mapping with OpenStreetMap
   and the Fediverse .
 title: Uncovering the Stories Behind Memorial Benches with Terrence Eden
-transcript_vtt: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/ab56ec85-b938-4716-be70-6c3e6b27af88638448624708978955.vtt
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="ZRdkbf6Ul" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

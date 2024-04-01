@@ -5,26 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Wed, 01 Feb 2023 10:00:00 +0000
-description: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
-  in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
-  and how he''s created multiple products based around making things easier for non-profit
-  organizations, one of which is the podcast host I utilize: Buzzsprout (they are
-  not a sponsor or paying me in any way).'
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160937383191135819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-12056055
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416093754521453f96db994-b023-4f8f-a04f-0408349a1246v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: 'Tom Rossi, co-founder of Higher Pixels , talks about teaching 3rd graders
-  in his kid''s class to code, CodeCombat , being on the board of multiple non-profits,
-  and how he''s created multiple products based around making things easier for non-profit
-  organizations, one of which is the podcast host I utilize: Buzzsprout (they are
-  not a sponsor or paying me in any way).'
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: Teaching Kids and Building Products with Tom Rossi
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="HrClUsafF" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

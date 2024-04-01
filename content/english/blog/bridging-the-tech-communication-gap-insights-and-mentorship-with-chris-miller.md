@@ -5,28 +5,24 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Sun, 03 Sep 2023 19:00:00 +0000
-description: Ever wondered how to bridge the communication gap in the tech world?
-  In my talk with Chris Miller - a tech maestro with an admirable 27-year career -
-  we unravel that and much more! Chris's vast experience ranges from the inception
-  of the first online bookstore to the uprising startup culture in California. His
-  desire to give back has seen him guide numerous budding developers, helping them
-  efficaciously communicate with diverse cohorts and maneuver through their careers.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160939007620545819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13520901
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160939141546444a6dbf9b-765b-4661-b64b-111cecb52254v1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Ever wondered how to bridge the communication gap in the tech world? In my
-  talk with Chris Miller - a tech maestro with an admirable 27-year career - we unravel
-  that and much more! Chris's vast experience ranges from the inception of the first
-  online bookstore to the uprising startup culture in California. His desire to give
-  back has seen him guide numerous budding developers, helping them efficaciously
-  communicate with diverse cohorts and maneuver through their careers.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: 'Bridging the Tech Communication Gap: Insights and Mentorship with Chris Miller'
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="dtzeyJC539" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}

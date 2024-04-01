@@ -5,29 +5,25 @@ author: Gene Liverman
 categories:
 - Podcast Episode
 date: Sat, 01 Jul 2023 09:00:00 +0000
-description: Ever wondered how robotics and coding can be accessible and fun for kids
-  of all ages? Join me as I chat with Wendy Hill, co-host of Linux Out Loud , about
-  her experience with FIRST LEGO League , a robotics program for kids ages 4-16. Wendy
-  has been involved with FIRST for two seasons and gives us insights into how each
-  level of the program focuses on teamwork and how different countries around the
-  world come together each year for a championship event.
-episode_artwork: https://assets.podhome.fm/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/6384160942485899045819ad.jpg
+description: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 guid: Buzzsprout-13013830
 image: images/episode-header.png
 mp3: https://op3.dev/e/serve.podhome.fm/episode/d4f02a91-cead-4ab3-6c02-08dc1c0c24e3/638416094262771956fa53f050-6e3a-4f5d-80f6-5878e837b11fv1.mp3
 podverse_podcast_id: Kd9Z2u-92d
-summary: Ever wondered how robotics and coding can be accessible and fun for kids
-  of all ages? Join me as I chat with Wendy Hill, co-host of Linux Out Loud , about
-  her experience with FIRST LEGO League , a robotics program for kids ages 4-16. Wendy
-  has been involved with FIRST for two seasons and gives us insights into how each
-  level of the program focuses on teamwork and how different countries around the
-  world come together each year for a championship event.
+summary: In this episode, Terence Eden talks about his project OpenBenches , which
+  aims to create a database of memorial benches around the world. He discusses how
+  the project started, the challenges they faced, and the impact it has had. Terence
+  also shares his thoughts on gamification and the future of mapping with OpenStreetMap
+  and the Fediverse .
 title: 'Empowering Young Minds: Exploring the World of Robotics and Coding for Kids
   with Wendy Hill'
-transcript_vtt: ''
 
 ---
-{{< episode-player >}}
+{{< podverse-episode-single podverse_episode_id="IZhIc63fs" >}}
 {{< listen-apple >}}{{< listen-overcast >}}{{< listen-spotify >}}{{< listen-google >}}{{< listen-rss >}}
 {{< tabs >}}
 {{< tab "Show Notes" >}}
