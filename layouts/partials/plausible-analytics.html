@@ -1,0 +1,9 @@
+{{ if site.Params.plausible.enable }}
+  {{ with site.Params.plausible.domain }}
+    <script
+      defer
+      data-domain="{{ . }}"
+      src="https://stats.technicalissues.us/js/script.js"></script>
+  {{ end }}
+{{ end }}
+
