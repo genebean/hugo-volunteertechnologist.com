@@ -27,3 +27,13 @@
 # https://chrisshort.net/from-git-submodule-to-hugo-modules-using-netlify/
   # [build.processing]
   #   skip_processing = true
+
+[[redirects]]
+  from = "/js/script.js"
+  to = "https://stats.technicalissues.us/js/script.js"
+  status = 200
+[[redirects]]
+  from = "/api/event"
+  to = "https://stats.technicalissues.us/api/event"
+  status = 200
+
